@@ -1,1 +1,1 @@
-# Aleo-First-Dapp
+# Aleo-First-DappConfigure Leo project
