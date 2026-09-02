@@ -6,3 +6,4 @@ Fix build errors on testnet
 Add frontend wallet connection
 Write integration tests
 Update documentation
+Code cleanup
